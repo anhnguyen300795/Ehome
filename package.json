@@ -1,0 +1,17 @@
+{
+  "name": "ehome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-front": "cd front-end && yarn",
+    "install-back": "cd back-end && yarn",
+    "build-front": "cd front-end && yarn build",
+    "build-back": "cd front-end && yarn build",
+    "start-front": "cd front-end && yarn start",
+    "start-back": "cd back-end && yarn start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

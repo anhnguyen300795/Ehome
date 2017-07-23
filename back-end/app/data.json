@@ -1,0 +1,2656 @@
+[{
+  "id": 124,
+  "street": "6066 N Nassau Ave",
+  "imageUrls": [{
+    "id": 119,
+    "url": "https://photos.zillowstatic.com/p_d/IS2ny0iz9we6bv0000000000.jpg",
+    "apartmentId": "3628330",
+    "apartment": null
+  }, {
+    "id": 120,
+    "url": "https://photos.zillowstatic.com/p_d/ISa1rqepm3ew610000000000.jpg",
+    "apartmentId": "3628330",
+    "apartment": null
+  }, {
+    "id": 121,
+    "url": "https://photos.zillowstatic.com/p_d/ISeojj38lj9pa20000000000.jpg",
+    "apartmentId": "3628330",
+    "apartment": null
+  }, {
+    "id": 122,
+    "url": "https://photos.zillowstatic.com/p_d/ISmqm57t0m2wjb1000000000.jpg",
+    "apartmentId": "3628330",
+    "apartment": null
+  }, {
+    "id": 123,
+    "url": "https://photos.zillowstatic.com/p_d/ISekktomwduyjb1000000000.jpg",
+    "apartmentId": "3628330",
+    "apartment": null
+  }],
+  "city": "Chicago, IL",
+  "owner": "eHome",
+  "price": 8511.0,
+  "apartmentId": "3628330",
+  "longitude": "-87.789801",
+  "approved": false,
+  "latitude": "41.99104",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 3.0,
+  "finishedSqFt": 1547.0,
+  "lotSizeSqFt": 5499.0,
+  "yearBuilt": "1925",
+  "yearUpdated": null,
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Dining room, Family room, Laundry room, Master bath, Mud room, Office, Recreation room, Sun room, Walk-in closet",
+  "viewPoint": null,
+  "parkingType": "Garage - Detached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1495219565582
+}, {
+  "id": 311,
+  "street": "2726 31st Ave S",
+  "imageUrls": [{
+    "id": 306,
+    "url": "https://photos.zillowstatic.com/p_d/IStkn8wdinso1x0000000000.jpg",
+    "apartmentId": "48973606",
+    "apartment": null
+  }, {
+    "id": 307,
+    "url": "https://photos.zillowstatic.com/p_d/ISp9wkx3zjpd1x0000000000.jpg",
+    "apartmentId": "48973606",
+    "apartment": null
+  }, {
+    "id": 308,
+    "url": "https://photos.zillowstatic.com/p_d/IShrs3pofzoyxv0000000000.jpg",
+    "apartmentId": "48973606",
+    "apartment": null
+  }, {
+    "id": 309,
+    "url": "https://photos.zillowstatic.com/p_d/IS5az388sndqxv0000000000.jpg",
+    "apartmentId": "48973606",
+    "apartment": null
+  }, {
+    "id": 310,
+    "url": "https://photos.zillowstatic.com/p_d/ISx3xrp1of5txv0000000000.jpg",
+    "apartmentId": "48973606",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 9651.0,
+  "apartmentId": "48973606",
+  "longitude": "-122.292655",
+  "approved": false,
+  "latitude": "47.578796",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 4.0,
+  "finishedSqFt": 2906.0,
+  "lotSizeSqFt": 5000.0,
+  "yearBuilt": "1921",
+  "yearUpdated": "2015",
+  "numFloors": "3",
+  "process": null,
+  "rooms": "Dining room, Family room, Laundry room, Master bath, Office, Recreation room, Walk-in closet",
+  "viewPoint": "Territorial",
+  "parkingType": "Garage - Detached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1495219511330
+}, {
+  "id": 184,
+  "street": "5328 Darling St",
+  "imageUrls": [{
+    "id": 179,
+    "url": "https://photos.zillowstatic.com/p_d/ISi7xhbk8kvab71000000000.jpg",
+    "apartmentId": "2104820362",
+    "apartment": null
+  }, {
+    "id": 180,
+    "url": "https://photos.zillowstatic.com/p_d/ISyj16cxg0c5b71000000000.jpg",
+    "apartmentId": "2104820362",
+    "apartment": null
+  }, {
+    "id": 181,
+    "url": "https://photos.zillowstatic.com/p_d/ISq5pgu78h600v1000000000.jpg",
+    "apartmentId": "2104820362",
+    "apartment": null
+  }, {
+    "id": 182,
+    "url": "https://photos.zillowstatic.com/p_d/ISizm4c149y20v1000000000.jpg",
+    "apartmentId": "2104820362",
+    "apartment": null
+  }, {
+    "id": 183,
+    "url": "https://photos.zillowstatic.com/p_d/ISaxj6vl6gzek81000000000.jpg",
+    "apartmentId": "2104820362",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 2350.0,
+  "apartmentId": "2104820362",
+  "longitude": "-95.417071",
+  "approved": false,
+  "latitude": "29.780066",
+  "available": true,
+  "bedrooms": 5,
+  "bathrooms": 3.0,
+  "finishedSqFt": 2239.0,
+  "lotSizeSqFt": 2687.0,
+  "yearBuilt": "2015",
+  "yearUpdated": "1989",
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Dining room",
+  "viewPoint": null,
+  "parkingType": "Garage - Attached, Carport",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1495219476217
+}, {
+  "id": 283,
+  "street": "707 N 48th St",
+  "imageUrls": [{
+    "id": 278,
+    "url": "https://photos.zillowstatic.com/p_d/IShjyiivty224m1000000000.jpg",
+    "apartmentId": "49139534",
+    "apartment": null
+  }, {
+    "id": 279,
+    "url": "https://photos.zillowstatic.com/p_d/ISdofczczz078y0000000000.jpg",
+    "apartmentId": "49139534",
+    "apartment": null
+  }, {
+    "id": 280,
+    "url": "https://photos.zillowstatic.com/p_d/ISdkg6kghoetfy0000000000.jpg",
+    "apartmentId": "49139534",
+    "apartment": null
+  }, {
+    "id": 281,
+    "url": "https://photos.zillowstatic.com/p_d/IS5eeu1adg6wfy0000000000.jpg",
+    "apartmentId": "49139534",
+    "apartment": null
+  }, {
+    "id": 282,
+    "url": "https://photos.zillowstatic.com/p_d/ISx7cij398yyfy0000000000.jpg",
+    "apartmentId": "49139534",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 4447.0,
+  "apartmentId": "49139534",
+  "longitude": "-122.34959",
+  "approved": false,
+  "latitude": "47.663366",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 2.0,
+  "finishedSqFt": 2590.0,
+  "lotSizeSqFt": 3484.0,
+  "yearBuilt": "1919",
+  "yearUpdated": "2006",
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Dining room, Family room, Master bath, Office, Walk-in closet",
+  "viewPoint": "Territorial",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Wood / Pellet, Electric",
+  "postDate": 1494969621316
+}, {
+  "id": 577,
+  "street": "5033 57th Ave S",
+  "imageUrls": [{
+    "id": 572,
+    "url": "https://photos.zillowstatic.com/p_d/ISadktdlpxjh7d0000000000.jpg",
+    "apartmentId": "48998591",
+    "apartment": null
+  }, {
+    "id": 573,
+    "url": "https://photos.zillowstatic.com/p_d/ISibc81zwa3gzt0000000000.jpg",
+    "apartmentId": "48998591",
+    "apartment": null
+  }, {
+    "id": 574,
+    "url": "https://photos.zillowstatic.com/p_d/ISijiqx3f4gfsq0000000000.jpg",
+    "apartmentId": "48998591",
+    "apartment": null
+  }, {
+    "id": 575,
+    "url": "https://photos.zillowstatic.com/p_d/ISa5awiss2vizt0000000000.jpg",
+    "apartmentId": "48998591",
+    "apartment": null
+  }, {
+    "id": 576,
+    "url": "https://photos.zillowstatic.com/p_d/IS2z7k0moumlzt0000000000.jpg",
+    "apartmentId": "48998591",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 2103.0,
+  "apartmentId": "48998591",
+  "longitude": "-122.26386",
+  "approved": false,
+  "latitude": "47.556101",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 2.5,
+  "finishedSqFt": 0.0,
+  "lotSizeSqFt": 8847.0,
+  "yearBuilt": "1956",
+  "yearUpdated": null,
+  "numFloors": "1",
+  "process": null,
+  "rooms": "Dining room",
+  "viewPoint": null,
+  "parkingType": "Garage - Detached",
+  "heatingSourcesGas": null,
+  "postDate": 1494452181799
+}, {
+  "id": 565,
+  "street": "3303 34th Ave SW",
+  "imageUrls": [{
+    "id": 560,
+    "url": "https://photos.zillowstatic.com/p_d/ISa9tt4oa7ikqn0000000000.jpg",
+    "apartmentId": "49074962",
+    "apartment": null
+  }, {
+    "id": 561,
+    "url": "https://photos.zillowstatic.com/p_d/IS23bhzyixnhus0000000000.jpg",
+    "apartmentId": "49074962",
+    "apartment": null
+  }, {
+    "id": 562,
+    "url": "https://photos.zillowstatic.com/p_d/ISuwo54b2r1qqn0000000000.jpg",
+    "apartmentId": "49074962",
+    "apartment": null
+  }, {
+    "id": 563,
+    "url": "https://photos.zillowstatic.com/p_d/ISmq6tylah7nus0000000000.jpg",
+    "apartmentId": "49074962",
+    "apartment": null
+  }, {
+    "id": 564,
+    "url": "https://photos.zillowstatic.com/p_d/ISek4hgf69zpus0000000000.jpg",
+    "apartmentId": "49074962",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 4533.0,
+  "apartmentId": "49074962",
+  "longitude": "-122.375443",
+  "approved": false,
+  "latitude": "47.573568",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 3.0,
+  "finishedSqFt": 1750.0,
+  "lotSizeSqFt": 2500.0,
+  "yearBuilt": "1998",
+  "yearUpdated": null,
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Master bath",
+  "viewPoint": "City, Water",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494452045530
+}, {
+  "id": 559,
+  "street": "1820 S Weller St",
+  "imageUrls": [{
+    "id": 554,
+    "url": "https://photos.zillowstatic.com/p_d/ISqpwjlzv9cn8l0000000000.jpg",
+    "apartmentId": "48861234",
+    "apartment": null
+  }, {
+    "id": 555,
+    "url": "https://photos.zillowstatic.com/p_d/ISq9c1l95n2i4b0000000000.jpg",
+    "apartmentId": "48861234",
+    "apartment": null
+  }, {
+    "id": 556,
+    "url": "https://photos.zillowstatic.com/p_d/ISi3ap231fuk4b0000000000.jpg",
+    "apartmentId": "48861234",
+    "apartment": null
+  }, {
+    "id": 557,
+    "url": "https://photos.zillowstatic.com/p_d/IS2bdwyglc8o2m0000000000.jpg",
+    "apartmentId": "48861234",
+    "apartment": null
+  }, {
+    "id": 558,
+    "url": "https://photos.zillowstatic.com/p_d/ISqhyzgt0fefm80000000000.jpg",
+    "apartmentId": "48861234",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 6470.0,
+  "apartmentId": "48861234",
+  "longitude": "-122.307912",
+  "approved": false,
+  "latitude": "47.597725",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 1.0,
+  "finishedSqFt": 1100.0,
+  "lotSizeSqFt": 4480.0,
+  "yearBuilt": "1904",
+  "yearUpdated": null,
+  "numFloors": "1",
+  "process": null,
+  "rooms": "Dining room, Family room, Laundry room, Office, Pantry, Workshop, Walk-in closet",
+  "viewPoint": null,
+  "parkingType": "Garage - Detached, Off-street",
+  "heatingSourcesGas": "Electric",
+  "postDate": 1494452019304
+}, {
+  "id": 178,
+  "street": "3106 Breezy Pines Ct",
+  "imageUrls": [{
+    "id": 173,
+    "url": "https://photos.zillowstatic.com/p_d/ISu08boq4sdv3g1000000000.jpg",
+    "apartmentId": "28264301",
+    "apartment": null
+  }, {
+    "id": 174,
+    "url": "https://photos.zillowstatic.com/p_d/ISijeb7ahg2n3g1000000000.jpg",
+    "apartmentId": "28264301",
+    "apartment": null
+  }, {
+    "id": 175,
+    "url": "https://photos.zillowstatic.com/p_d/ISe8779lke0eef1000000000.jpg",
+    "apartmentId": "28264301",
+    "apartment": null
+  }, {
+    "id": 176,
+    "url": "https://photos.zillowstatic.com/p_d/ISeo3nndwbx04g1000000000.jpg",
+    "apartmentId": "28264301",
+    "apartment": null
+  }, {
+    "id": 177,
+    "url": "https://photos.zillowstatic.com/p_d/IS27an6x80ms3g1000000000.jpg",
+    "apartmentId": "28264301",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 8480.0,
+  "apartmentId": "28264301",
+  "longitude": "-95.201795",
+  "approved": false,
+  "latitude": "30.042712",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 3.0,
+  "finishedSqFt": 1920.0,
+  "lotSizeSqFt": 8751.0,
+  "yearBuilt": "1981",
+  "yearUpdated": "1981",
+  "numFloors": "1",
+  "process": null,
+  "rooms": "Breakfast nook, Dining room, Laundry room, Master bath, Walk-in closet",
+  "viewPoint": null,
+  "parkingType": "Garage - Detached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494451910583
+}, {
+  "id": 196,
+  "street": "4377 N Macgregor Way",
+  "imageUrls": [{
+    "id": 191,
+    "url": "https://photos.zillowstatic.com/p_d/ISz21uh7wrp28z.jpg",
+    "apartmentId": "27885627",
+    "apartment": null
+  }, {
+    "id": 192,
+    "url": "https://photos.zillowstatic.com/p_d/ISz21uiz1ratgj.jpg",
+    "apartmentId": "27885627",
+    "apartment": null
+  }, {
+    "id": 193,
+    "url": "https://photos.zillowstatic.com/p_d/ISz0n5yigsg6ub.jpg",
+    "apartmentId": "27885627",
+    "apartment": null
+  }, {
+    "id": 194,
+    "url": "https://photos.zillowstatic.com/p_d/ISz21ukq6qwko3.jpg",
+    "apartmentId": "27885627",
+    "apartment": null
+  }, {
+    "id": 195,
+    "url": "https://photos.zillowstatic.com/p_d/ISz21ul20xkwir.jpg",
+    "apartmentId": "27885627",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 9872.0,
+  "apartmentId": "27885627",
+  "longitude": "-95.345465",
+  "approved": false,
+  "latitude": "29.713414",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 2.0,
+  "finishedSqFt": 6008.0,
+  "lotSizeSqFt": 20256.0,
+  "yearBuilt": "1991",
+  "yearUpdated": "1980",
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Dining room, Family room, Laundry room, Office, Walk-in closet",
+  "viewPoint": "Water, Park",
+  "parkingType": "Garage - Detached",
+  "heatingSourcesGas": "Gas, Electric",
+  "postDate": 1494451812370
+}, {
+  "id": 543,
+  "street": "535 Dupont St ",
+  "imageUrls": [{
+    "id": 538,
+    "url": "https://photos.zillowstatic.com/p_d/IS6qzmznq926ci1000000000.jpg",
+    "apartmentId": "122061252",
+    "apartment": null
+  }, {
+    "id": 539,
+    "url": "https://photos.zillowstatic.com/p_d/ISew1zhuuha3ci1000000000.jpg",
+    "apartmentId": "122061252",
+    "apartment": null
+  }, {
+    "id": 540,
+    "url": "https://photos.zillowstatic.com/p_d/ISyjxahhm1u8ci1000000000.jpg",
+    "apartmentId": "122061252",
+    "apartment": null
+  }, {
+    "id": 541,
+    "url": "https://photos.zillowstatic.com/p_d/ISm24b01zpi0ci1000000000.jpg",
+    "apartmentId": "122061252",
+    "apartment": null
+  }, {
+    "id": 542,
+    "url": "https://photos.zillowstatic.com/p_d/ISqt73nbv12s6i1000000000.jpg",
+    "apartmentId": "122061252",
+    "apartment": null
+  }],
+  "city": "Philadelphia, PA",
+  "owner": "eHome",
+  "price": 4284.0,
+  "apartmentId": "122061252",
+  "longitude": "-75.214798",
+  "approved": false,
+  "latitude": "40.035034",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 4.0,
+  "finishedSqFt": 3000.0,
+  "lotSizeSqFt": 1968.0,
+  "yearBuilt": "2013",
+  "yearUpdated": null,
+  "numFloors": "3",
+  "process": null,
+  "rooms": "Dining room, Family room, Master bath, Pantry",
+  "viewPoint": "City, Territorial",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494451726516
+}, {
+  "id": 531,
+  "street": "645 W Sedgwick St",
+  "imageUrls": [{
+    "id": 526,
+    "url": "https://photos.zillowstatic.com/p_d/ISyzd6piv9wghi1000000000.jpg",
+    "apartmentId": "118343770",
+    "apartment": null
+  }, {
+    "id": 527,
+    "url": "https://photos.zillowstatic.com/p_d/ISeg96sb2z8qob1000000000.jpg",
+    "apartmentId": "118343770",
+    "apartment": null
+  }, {
+    "id": 528,
+    "url": "https://photos.zillowstatic.com/p_d/ISir0uqll2c1pb1000000000.jpg",
+    "apartmentId": "118343770",
+    "apartment": null
+  }, {
+    "id": 529,
+    "url": "https://photos.zillowstatic.com/p_d/ISy35irytisvob1000000000.jpg",
+    "apartmentId": "118343770",
+    "apartment": null
+  }, {
+    "id": 530,
+    "url": "https://photos.zillowstatic.com/p_d/ISqx269spakyob1000000000.jpg",
+    "apartmentId": "118343770",
+    "apartment": null
+  }],
+  "city": "Philadelphia, PA",
+  "owner": "eHome",
+  "price": 7061.0,
+  "apartmentId": "118343770",
+  "longitude": "-75.198593",
+  "approved": false,
+  "latitude": "40.046085",
+  "available": true,
+  "bedrooms": 6,
+  "bathrooms": 3.0,
+  "finishedSqFt": 2900.0,
+  "lotSizeSqFt": 4926.0,
+  "yearBuilt": "1907",
+  "yearUpdated": "1996",
+  "numFloors": "3",
+  "process": null,
+  "rooms": "Dining room, Family room, Mud room, Workshop",
+  "viewPoint": "Park, Territorial",
+  "parkingType": "Garage - Attached, On-street",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494451664379
+}, {
+  "id": 525,
+  "street": "74 E Laurel St APT 3",
+  "imageUrls": [{
+    "id": 520,
+    "url": "https://photos.zillowstatic.com/p_d/ISqheg0si97ffl0000000000.jpg",
+    "apartmentId": "2100022360",
+    "apartment": null
+  }, {
+    "id": 521,
+    "url": "https://photos.zillowstatic.com/p_d/ISyngsiymhfcfl0000000000.jpg",
+    "apartmentId": "2100022360",
+    "apartment": null
+  }, {
+    "id": 522,
+    "url": "https://photos.zillowstatic.com/p_d/ISe8nrv830j5020000000000.jpg",
+    "apartmentId": "2100022360",
+    "apartment": null
+  }, {
+    "id": 523,
+    "url": "https://photos.zillowstatic.com/p_d/ISesuydwsncdxb0000000000.jpg",
+    "apartmentId": "2100022360",
+    "apartment": null
+  }, {
+    "id": 524,
+    "url": "https://photos.zillowstatic.com/p_d/ISatcexdjqlwsb0000000000.jpg",
+    "apartmentId": "2100022360",
+    "apartment": null
+  }],
+  "city": "Philadelphia, PA",
+  "owner": "eHome",
+  "price": 8351.0,
+  "apartmentId": "2100022360",
+  "longitude": "-75.136764",
+  "approved": false,
+  "latitude": "39.96474",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 3.0,
+  "finishedSqFt": 2800.0,
+  "lotSizeSqFt": 11340.0,
+  "yearBuilt": "2016",
+  "yearUpdated": null,
+  "numFloors": "3",
+  "process": null,
+  "rooms": null,
+  "viewPoint": null,
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494451638842
+}, {
+  "id": 519,
+  "street": "2550 Montrose St",
+  "imageUrls": [{
+    "id": 514,
+    "url": "https://photos.zillowstatic.com/p_d/IS6mg1baextzop1000000000.jpg",
+    "apartmentId": "117907168",
+    "apartment": null
+  }, {
+    "id": 515,
+    "url": "https://photos.zillowstatic.com/p_d/IS27m4wx3f27ar1000000000.jpg",
+    "apartmentId": "117907168",
+    "apartment": null
+  }, {
+    "id": 516,
+    "url": "https://photos.zillowstatic.com/p_d/ISe8zc8ug40mpp1000000000.jpg",
+    "apartmentId": "117907168",
+    "apartment": null
+  }, {
+    "id": 517,
+    "url": "https://photos.zillowstatic.com/p_d/ISesidtgi52xop1000000000.jpg",
+    "apartmentId": "117907168",
+    "apartment": null
+  }, {
+    "id": 518,
+    "url": "https://photos.zillowstatic.com/p_d/ISme1pq0lc8jpp1000000000.jpg",
+    "apartmentId": "117907168",
+    "apartment": null
+  }],
+  "city": "Philadelphia, PA",
+  "owner": "eHome",
+  "price": 8568.0,
+  "apartmentId": "117907168",
+  "longitude": "-75.186073",
+  "approved": false,
+  "latitude": "39.941887",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 3.0,
+  "finishedSqFt": 2600.0,
+  "lotSizeSqFt": 735.0,
+  "yearBuilt": "2012",
+  "yearUpdated": null,
+  "numFloors": "4",
+  "process": null,
+  "rooms": "Laundry room, Master bath, Walk-in closet",
+  "viewPoint": "City, Territorial",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494451587381
+}, {
+  "id": 507,
+  "street": "732 S 18th St",
+  "imageUrls": [{
+    "id": 502,
+    "url": "https://photos.zillowstatic.com/p_d/IS2nayv95ytikh1000000000.jpg",
+    "apartmentId": "2095963094",
+    "apartment": null
+  }, {
+    "id": 503,
+    "url": "https://photos.zillowstatic.com/p_d/IS2fwxr8402yui1000000000.jpg",
+    "apartmentId": "2095963094",
+    "apartment": null
+  }, {
+    "id": 504,
+    "url": "https://photos.zillowstatic.com/p_d/ISmi034xbcfknl1000000000.jpg",
+    "apartmentId": "2095963094",
+    "apartment": null
+  }, {
+    "id": 505,
+    "url": "https://photos.zillowstatic.com/p_d/ISm2st69kugczl1000000000.jpg",
+    "apartmentId": "2095963094",
+    "apartment": null
+  }, {
+    "id": 506,
+    "url": "https://photos.zillowstatic.com/p_d/ISegl3ir9vrfhm1000000000.jpg",
+    "apartmentId": "2095963094",
+    "apartment": null
+  }],
+  "city": "Philadelphia, PA",
+  "owner": "eHome",
+  "price": 8967.0,
+  "apartmentId": "2095963094",
+  "longitude": "-75.172515",
+  "approved": false,
+  "latitude": "39.942737",
+  "available": true,
+  "bedrooms": 5,
+  "bathrooms": 3.0,
+  "finishedSqFt": 2700.0,
+  "lotSizeSqFt": 1000.0,
+  "yearBuilt": null,
+  "yearUpdated": null,
+  "numFloors": null,
+  "process": null,
+  "rooms": "Laundry room",
+  "viewPoint": "City",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494451480855
+}, {
+  "id": 501,
+  "street": "726 S 20th St",
+  "imageUrls": [{
+    "id": 496,
+    "url": "https://photos.zillowstatic.com/p_d/ISy39hpj9tswkm1000000000.jpg",
+    "apartmentId": "67363178",
+    "apartment": null
+  }, {
+    "id": 497,
+    "url": "https://photos.zillowstatic.com/p_d/ISad45c7xhvd0n1000000000.jpg",
+    "apartmentId": "67363178",
+    "apartment": null
+  }, {
+    "id": 498,
+    "url": "https://photos.zillowstatic.com/p_d/IS272tt0t9ng0n1000000000.jpg",
+    "apartmentId": "67363178",
+    "apartment": null
+  }, {
+    "id": 499,
+    "url": "https://photos.zillowstatic.com/p_d/IS2zfai397gaem1000000000.jpg",
+    "apartmentId": "67363178",
+    "apartment": null
+  }, {
+    "id": 500,
+    "url": "https://photos.zillowstatic.com/p_d/ISibkyighnw4em1000000000.jpg",
+    "apartmentId": "67363178",
+    "apartment": null
+  }],
+  "city": "Philadelphia, PA",
+  "owner": "eHome",
+  "price": 6388.0,
+  "apartmentId": "67363178",
+  "longitude": "-75.175698",
+  "approved": false,
+  "latitude": "39.942879",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 3.0,
+  "finishedSqFt": 2400.0,
+  "lotSizeSqFt": 871.0,
+  "yearBuilt": "2005",
+  "yearUpdated": null,
+  "numFloors": "3",
+  "process": null,
+  "rooms": "Dining room, Family room, Master bath",
+  "viewPoint": "Territorial",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494451458424
+}, {
+  "id": 477,
+  "street": "1405 Cook St",
+  "imageUrls": [{
+    "id": 197,
+    "url": "https://photos.zillowstatic.com/p_d/ISppw7gzmmbxtj1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 198,
+    "url": "https://photos.zillowstatic.com/p_d/IShrsvuvmjky7d1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 199,
+    "url": "https://photos.zillowstatic.com/p_d/IS6ue5jolemh1w0000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 200,
+    "url": "https://photos.zillowstatic.com/p_d/ISh3u8zkmk34pk0000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 201,
+    "url": "https://photos.zillowstatic.com/p_d/ISdsy131hw3lri1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 472,
+    "url": "https://photos.zillowstatic.com/p_d/ISppw7gzmmbxtj1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 473,
+    "url": "https://photos.zillowstatic.com/p_d/IShrsvuvmjky7d1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 474,
+    "url": "https://photos.zillowstatic.com/p_d/IS6ue5jolemh1w0000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 475,
+    "url": "https://photos.zillowstatic.com/p_d/ISh3u8zkmk34pk0000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 476,
+    "url": "https://photos.zillowstatic.com/p_d/ISdsy131hw3lri1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 6437.0,
+  "apartmentId": "121106141",
+  "longitude": "-95.381439",
+  "approved": false,
+  "latitude": "29.751219",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 4.0,
+  "finishedSqFt": 3101.0,
+  "lotSizeSqFt": 2462.0,
+  "yearBuilt": "2012",
+  "yearUpdated": "2012",
+  "numFloors": "4",
+  "process": null,
+  "rooms": "Breakfast nook, Dining room, Family room, Laundry room, Master bath, Mud room, Office, Walk-in closet",
+  "viewPoint": "City",
+  "parkingType": "Garage - Attached, On-street",
+  "heatingSourcesGas": "Electric, Gas",
+  "postDate": 1494440335247
+}, {
+  "id": 471,
+  "street": "633 W 18th St",
+  "imageUrls": [{
+    "id": 466,
+    "url": "https://photos.zillowstatic.com/p_d/ISq1q68fl1gjqm0000000000.jpg",
+    "apartmentId": "27759817",
+    "apartment": null
+  }, {
+    "id": 467,
+    "url": "https://photos.zillowstatic.com/p_d/ISatcqqo4nrjqk1000000000.jpg",
+    "apartmentId": "27759817",
+    "apartment": null
+  }, {
+    "id": 468,
+    "url": "https://photos.zillowstatic.com/p_d/ISij26zeffe2cm0000000000.jpg",
+    "apartmentId": "27759817",
+    "apartment": null
+  }, {
+    "id": 469,
+    "url": "https://photos.zillowstatic.com/p_d/ISqt73f9gic6iv1000000000.jpg",
+    "apartmentId": "27759817",
+    "apartment": null
+  }, {
+    "id": 470,
+    "url": "https://photos.zillowstatic.com/p_d/ISi7httpgpolk91000000000.jpg",
+    "apartmentId": "27759817",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 6279.0,
+  "apartmentId": "27759817",
+  "longitude": "-95.409457",
+  "approved": false,
+  "latitude": "29.802038",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 4.0,
+  "finishedSqFt": 3224.0,
+  "lotSizeSqFt": 3300.0,
+  "yearBuilt": "2016",
+  "yearUpdated": null,
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Laundry room, Library, Master bath, Office, Pantry, Recreation room, Walk-in closet",
+  "viewPoint": "City",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494440319837
+}, {
+  "id": 459,
+  "street": "3525 Sage Rd APT 1216",
+  "imageUrls": [{
+    "id": 454,
+    "url": "https://photos.zillowstatic.com/p_d/ISqxasngm3m4xo1000000000.jpg",
+    "apartmentId": "28494891",
+    "apartment": null
+  }, {
+    "id": 455,
+    "url": "https://photos.zillowstatic.com/p_d/ISyfae5jkx4bup1000000000.jpg",
+    "apartmentId": "28494891",
+    "apartment": null
+  }, {
+    "id": 456,
+    "url": "https://photos.zillowstatic.com/p_d/IS6abdnnlg0vaq1000000000.jpg",
+    "apartmentId": "28494891",
+    "apartment": null
+  }, {
+    "id": 457,
+    "url": "https://photos.zillowstatic.com/p_d/ISy3915hh8sxaq1000000000.jpg",
+    "apartmentId": "28494891",
+    "apartment": null
+  }, {
+    "id": 458,
+    "url": "https://photos.zillowstatic.com/p_d/ISm2w03esveebq1000000000.jpg",
+    "apartmentId": "28494891",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 3290.0,
+  "apartmentId": "28494891",
+  "longitude": "-95.465986",
+  "approved": false,
+  "latitude": "29.729098",
+  "available": true,
+  "bedrooms": 2,
+  "bathrooms": 2.0,
+  "finishedSqFt": 1095.0,
+  "lotSizeSqFt": 0.0,
+  "yearBuilt": "1985",
+  "yearUpdated": "1985",
+  "numFloors": "1",
+  "process": null,
+  "rooms": "Dining room, Family room, Laundry room, Master bath, Walk-in closet",
+  "viewPoint": "City, Water",
+  "parkingType": "Garage - Detached",
+  "heatingSourcesGas": "Electric",
+  "postDate": 1494440237911
+}, {
+  "id": 453,
+  "street": "13702 Sandpebble Chase",
+  "imageUrls": [{
+    "id": 448,
+    "url": "https://photos.zillowstatic.com/p_d/ISir4phqkul0sf1000000000.jpg",
+    "apartmentId": "28519538",
+    "apartment": null
+  }, {
+    "id": 449,
+    "url": "https://photos.zillowstatic.com/p_d/ISuc5h8kr3ktrb1000000000.jpg",
+    "apartmentId": "28519538",
+    "apartment": null
+  }, {
+    "id": 450,
+    "url": "https://photos.zillowstatic.com/p_d/ISa99ubywzqotm1000000000.jpg",
+    "apartmentId": "28519538",
+    "apartment": null
+  }, {
+    "id": 451,
+    "url": "https://photos.zillowstatic.com/p_d/ISa1vpc6jg8mvh1000000000.jpg",
+    "apartmentId": "28519538",
+    "apartment": null
+  }, {
+    "id": 452,
+    "url": "https://photos.zillowstatic.com/p_d/ISeko4czb8x5rk1000000000.jpg",
+    "apartmentId": "28519538",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 5545.0,
+  "apartmentId": "28519538",
+  "longitude": "-95.628415",
+  "approved": false,
+  "latitude": "29.766177",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 3.0,
+  "finishedSqFt": 3194.0,
+  "lotSizeSqFt": 9176.0,
+  "yearBuilt": "1994",
+  "yearUpdated": "2016",
+  "numFloors": "1",
+  "process": null,
+  "rooms": "Breakfast nook, Dining room, Family room, Laundry room, Master bath, Office, Pantry, Walk-in closet",
+  "viewPoint": "Territorial, Water",
+  "parkingType": "Garage - Attached, Garage - Detached, Off-street",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494440219978
+}, {
+  "id": 447,
+  "street": "10731 Bordley Dr,",
+  "imageUrls": [{
+    "id": 442,
+    "url": "https://photos.zillowstatic.com/p_d/ISadsj39sqhpbi1000000000.jpg",
+    "apartmentId": "28099813",
+    "apartment": null
+  }, {
+    "id": 443,
+    "url": "https://photos.zillowstatic.com/p_d/ISmmnvkg659j421000000000.jpg",
+    "apartmentId": "28099813",
+    "apartment": null
+  }, {
+    "id": 444,
+    "url": "https://photos.zillowstatic.com/p_d/ISirc71kl04x421000000000.jpg",
+    "apartmentId": "28099813",
+    "apartment": null
+  }, {
+    "id": 445,
+    "url": "https://photos.zillowstatic.com/p_d/IS6yhuj1vzfbl21000000000.jpg",
+    "apartmentId": "28099813",
+    "apartment": null
+  }, {
+    "id": 446,
+    "url": "https://photos.zillowstatic.com/p_d/ISmy4pkxmskuc21000000000.jpg",
+    "apartmentId": "28099813",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 4902.0,
+  "apartmentId": "28099813",
+  "longitude": "-95.566767",
+  "approved": false,
+  "latitude": "29.751111",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 2.0,
+  "finishedSqFt": 2128.0,
+  "lotSizeSqFt": 9225.0,
+  "yearBuilt": "1969",
+  "yearUpdated": "2015",
+  "numFloors": "1",
+  "process": null,
+  "rooms": "Dining room",
+  "viewPoint": null,
+  "parkingType": "Garage - Detached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494440201963
+}, {
+  "id": 441,
+  "street": "2215 Sheridan St",
+  "imageUrls": [{
+    "id": 436,
+    "url": "https://photos.zillowstatic.com/p_d/IS17u20qp59e5c0000000000.jpg",
+    "apartmentId": "27861272",
+    "apartment": null
+  }, {
+    "id": 437,
+    "url": "https://photos.zillowstatic.com/p_d/IShjyq03ylp85c0000000000.jpg",
+    "apartmentId": "27861272",
+    "apartment": null
+  }, {
+    "id": 438,
+    "url": "https://photos.zillowstatic.com/p_d/IS9xff3jvejm4c0000000000.jpg",
+    "apartmentId": "27861272",
+    "apartment": null
+  }, {
+    "id": 439,
+    "url": "https://photos.zillowstatic.com/p_d/IStk74izs8zmg21000000000.jpg",
+    "apartmentId": "27861272",
+    "apartment": null
+  }, {
+    "id": 440,
+    "url": "https://photos.zillowstatic.com/p_d/IS1rd3lcr6bp4c0000000000.jpg",
+    "apartmentId": "27861272",
+    "apartment": null
+  }, {
+    "id": 460,
+    "url": "https://photos.zillowstatic.com/p_d/IS17u20qp59e5c0000000000.jpg",
+    "apartmentId": "27861272",
+    "apartment": null
+  }, {
+    "id": 461,
+    "url": "https://photos.zillowstatic.com/p_d/IShjyq03ylp85c0000000000.jpg",
+    "apartmentId": "27861272",
+    "apartment": null
+  }, {
+    "id": 462,
+    "url": "https://photos.zillowstatic.com/p_d/IS9xff3jvejm4c0000000000.jpg",
+    "apartmentId": "27861272",
+    "apartment": null
+  }, {
+    "id": 463,
+    "url": "https://photos.zillowstatic.com/p_d/IStk74izs8zmg21000000000.jpg",
+    "apartmentId": "27861272",
+    "apartment": null
+  }, {
+    "id": 464,
+    "url": "https://photos.zillowstatic.com/p_d/IS1rd3lcr6bp4c0000000000.jpg",
+    "apartmentId": "27861272",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 8884.0,
+  "apartmentId": "27861272",
+  "longitude": "-95.409904",
+  "approved": false,
+  "latitude": "29.706805",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 4.0,
+  "finishedSqFt": 3201.0,
+  "lotSizeSqFt": 3397.0,
+  "yearBuilt": "1995",
+  "yearUpdated": "2015",
+  "numFloors": "3",
+  "process": null,
+  "rooms": "Breakfast nook, Dining room, Family room, Laundry room, Master bath, Pantry, Recreation room, Walk-in closet",
+  "viewPoint": "City",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494440184223
+}, {
+  "id": 435,
+  "street": "32 Bash Pl",
+  "imageUrls": [{
+    "id": 430,
+    "url": "https://photos.zillowstatic.com/p_d/ISewxjr4suu7l91000000000.jpg",
+    "apartmentId": "27904949",
+    "apartment": null
+  }, {
+    "id": 431,
+    "url": "https://photos.zillowstatic.com/p_d/ISi7p7qebyxil91000000000.jpg",
+    "apartmentId": "27904949",
+    "apartment": null
+  }, {
+    "id": 432,
+    "url": "https://photos.zillowstatic.com/p_d/IS2f0pjbjs1re91000000000.jpg",
+    "apartmentId": "27904949",
+    "apartment": null
+  }, {
+    "id": 433,
+    "url": "https://photos.zillowstatic.com/p_d/ISy391l10pyfe91000000000.jpg",
+    "apartmentId": "27904949",
+    "apartment": null
+  }, {
+    "id": 434,
+    "url": "https://photos.zillowstatic.com/p_d/ISir4dkor8ile91000000000.jpg",
+    "apartmentId": "27904949",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 4354.0,
+  "apartmentId": "27904949",
+  "longitude": "-95.44934",
+  "approved": false,
+  "latitude": "29.733125",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 4.0,
+  "finishedSqFt": 3780.0,
+  "lotSizeSqFt": 5500.0,
+  "yearBuilt": "2010",
+  "yearUpdated": "2010",
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Breakfast nook, Dining room, Family room, Laundry room, Library, Master bath, Office, Pantry, Recreation room, Walk-in closet",
+  "viewPoint": "City",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Electric, Gas",
+  "postDate": 1494440162619
+}, {
+  "id": 429,
+  "street": "10858 S Troy St",
+  "imageUrls": [{
+    "id": 424,
+    "url": "https://photos.zillowstatic.com/p_d/ISa138gbyez6co1000000000.jpg",
+    "apartmentId": "4079552",
+    "apartment": null
+  }, {
+    "id": 425,
+    "url": "https://photos.zillowstatic.com/p_d/ISq9c54b24pmx71000000000.jpg",
+    "apartmentId": "4079552",
+    "apartment": null
+  }, {
+    "id": 426,
+    "url": "https://photos.zillowstatic.com/p_d/ISapd00ifrh9j81000000000.jpg",
+    "apartmentId": "4079552",
+    "apartment": null
+  }, {
+    "id": 427,
+    "url": "https://photos.zillowstatic.com/p_d/ISma23vobbdrp91000000000.jpg",
+    "apartmentId": "4079552",
+    "apartment": null
+  }, {
+    "id": 428,
+    "url": "https://photos.zillowstatic.com/p_d/IS6uudo20tsar91000000000.jpg",
+    "apartmentId": "4079552",
+    "apartment": null
+  }],
+  "city": "Chicago, IL",
+  "owner": "eHome",
+  "price": 8697.0,
+  "apartmentId": "4079552",
+  "longitude": "-87.700113",
+  "approved": false,
+  "latitude": "41.695384",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 2.0,
+  "finishedSqFt": 1850.0,
+  "lotSizeSqFt": 6311.0,
+  "yearBuilt": "1937",
+  "yearUpdated": null,
+  "numFloors": "2",
+  "process": null,
+  "rooms": null,
+  "viewPoint": null,
+  "parkingType": "Garage - Detached",
+  "heatingSourcesGas": null,
+  "postDate": 1494439929569
+}, {
+  "id": 407,
+  "street": "1405 N Orleans St APT D",
+  "imageUrls": [{
+    "id": 403,
+    "url": "https://photos.zillowstatic.com/p_d/ISa569yt4vbdxj1000000000.jpg",
+    "apartmentId": "80833442",
+    "apartment": null
+  }, {
+    "id": 404,
+    "url": "https://photos.zillowstatic.com/p_d/ISyzp7qhcgu7zj1000000000.jpg",
+    "apartmentId": "80833442",
+    "apartment": null
+  }, {
+    "id": 405,
+    "url": "https://photos.zillowstatic.com/p_d/ISinljp440edzj1000000000.jpg",
+    "apartmentId": "80833442",
+    "apartment": null
+  }, {
+    "id": 406,
+    "url": "https://photos.zillowstatic.com/p_d/ISqpgjq28qvoym1000000000.jpg",
+    "apartmentId": "80833442",
+    "apartment": null
+  }],
+  "city": "Chicago, IL",
+  "owner": "eHome",
+  "price": 9878.0,
+  "apartmentId": "80833442",
+  "longitude": "-87.637374",
+  "approved": false,
+  "latitude": "41.907855",
+  "available": true,
+  "bedrooms": 2,
+  "bathrooms": 2.0,
+  "finishedSqFt": 1300.0,
+  "lotSizeSqFt": 0.0,
+  "yearBuilt": "2005",
+  "yearUpdated": null,
+  "numFloors": "5",
+  "process": null,
+  "rooms": "Breakfast nook, Dining room, Family room, Laundry room, Master bath, Office, Pantry, Walk-in closet",
+  "viewPoint": "City",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": null,
+  "postDate": 1494439788932
+}, {
+  "id": 253,
+  "street": "2183 N 122nd Pl",
+  "imageUrls": [{
+    "id": 248,
+    "url": "https://photos.zillowstatic.com/p_d/ISqlhhurq1dy9o0000000000.jpg",
+    "apartmentId": "48843116",
+    "apartment": null
+  }, {
+    "id": 249,
+    "url": "https://photos.zillowstatic.com/p_d/IStrwljx4e2kkj.jpg",
+    "apartmentId": "48843116",
+    "apartment": null
+  }, {
+    "id": 250,
+    "url": "https://photos.zillowstatic.com/p_d/IS14asw7muy37hf.jpg",
+    "apartmentId": "48843116",
+    "apartment": null
+  }, {
+    "id": 251,
+    "url": "https://photos.zillowstatic.com/p_d/ISmu9ug49zby8o0000000000.jpg",
+    "apartmentId": "48843116",
+    "apartment": null
+  }, {
+    "id": 252,
+    "url": "https://photos.zillowstatic.com/p_d/ISe4ohdb3q1q9o0000000000.jpg",
+    "apartmentId": "48843116",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 3368.0,
+  "apartmentId": "48843116",
+  "longitude": "-122.330797",
+  "approved": false,
+  "latitude": "47.718366",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 3.0,
+  "finishedSqFt": 3180.0,
+  "lotSizeSqFt": 7280.0,
+  "yearBuilt": "1962",
+  "yearUpdated": null,
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Dining room, Family room, Master bath",
+  "viewPoint": null,
+  "parkingType": "Carport, Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494366986625
+}, {
+  "id": 100,
+  "street": "165 W Superior St",
+  "imageUrls": [{
+    "id": 95,
+    "url": "https://photos.zillowstatic.com/p_d/IS6uq64bu111l50000000000.jpg",
+    "apartmentId": "2094752643",
+    "apartment": null
+  }, {
+    "id": 96,
+    "url": "https://photos.zillowstatic.com/p_d/ISynoul4qts3l50000000000.jpg",
+    "apartmentId": "2094752643",
+    "apartment": null
+  }, {
+    "id": 97,
+    "url": "https://photos.zillowstatic.com/p_d/ISqhmi3yllk6l50000000000.jpg",
+    "apartmentId": "2094752643",
+    "apartment": null
+  }, {
+    "id": 98,
+    "url": "https://photos.zillowstatic.com/p_d/ISibk6lrhdc9l50000000000.jpg",
+    "apartmentId": "2094752643",
+    "apartment": null
+  }, {
+    "id": 99,
+    "url": "https://photos.zillowstatic.com/p_d/ISa5iu2ld54cl50000000000.jpg",
+    "apartmentId": "2094752643",
+    "apartment": null
+  }],
+  "city": "Chicago, IL",
+  "owner": "eHome",
+  "price": 2464.0,
+  "apartmentId": "2094752643",
+  "longitude": "-87.631536",
+  "approved": false,
+  "latitude": "41.89549",
+  "available": true,
+  "bedrooms": 1,
+  "bathrooms": 1.0,
+  "finishedSqFt": 484.0,
+  "lotSizeSqFt": 0.0,
+  "yearBuilt": null,
+  "yearUpdated": "2005",
+  "numFloors": null,
+  "process": null,
+  "rooms": "Dining room",
+  "viewPoint": null,
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": null,
+  "postDate": 1494365958111
+}, {
+  "id": 352,
+  "street": "2327 W Medill Ave ",
+  "imageUrls": [{
+    "id": 347,
+    "url": "https://photos.zillowstatic.com/p_d/ISx7g930egdcuv1000000000.jpg",
+    "apartmentId": "60265312",
+    "apartment": null
+  }, {
+    "id": 348,
+    "url": "https://photos.zillowstatic.com/p_d/ISh7hlj863784x1000000000.jpg",
+    "apartmentId": "60265312",
+    "apartment": null
+  }, {
+    "id": 349,
+    "url": "https://photos.zillowstatic.com/p_d/IS1vcxivxmqd4x1000000000.jpg",
+    "apartmentId": "60265312",
+    "apartment": null
+  }, {
+    "id": 350,
+    "url": "https://photos.zillowstatic.com/p_d/IStkrvk7p1v01y1000000000.jpg",
+    "apartmentId": "60265312",
+    "apartment": null
+  }, {
+    "id": 351,
+    "url": "https://photos.zillowstatic.com/p_d/IStoal0pteig4x1000000000.jpg",
+    "apartmentId": "60265312",
+    "apartment": null
+  }],
+  "city": "Chicago, IL",
+  "owner": "eHome",
+  "price": 6002.0,
+  "apartmentId": "60265312",
+  "longitude": "-87.686286",
+  "approved": false,
+  "latitude": "41.923931",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 3.0,
+  "finishedSqFt": 2600.0,
+  "lotSizeSqFt": 3484.0,
+  "yearBuilt": "1999",
+  "yearUpdated": null,
+  "numFloors": "4",
+  "process": null,
+  "rooms": "Dining room",
+  "viewPoint": null,
+  "parkingType": "Garage - Detached, On-street",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494358745768
+}, {
+  "id": 346,
+  "street": "4910 SW Hudson St",
+  "imageUrls": [{
+    "id": 341,
+    "url": "https://photos.zillowstatic.com/p_d/ISl6v66p1fm9zf1000000000.jpg",
+    "apartmentId": "48888533",
+    "apartment": null
+  }, {
+    "id": 342,
+    "url": "https://photos.zillowstatic.com/p_d/IS-1ssdhjv2fg9y5.jpg",
+    "apartmentId": "48888533",
+    "apartment": null
+  }, {
+    "id": 343,
+    "url": "https://photos.zillowstatic.com/p_d/IS-5abiz9swoqql.jpg",
+    "apartmentId": "48888533",
+    "apartment": null
+  }, {
+    "id": 344,
+    "url": "https://photos.zillowstatic.com/p_d/IS-5abiztj7tahp.jpg",
+    "apartmentId": "48888533",
+    "apartment": null
+  }, {
+    "id": 345,
+    "url": "https://photos.zillowstatic.com/p_d/IS-1ssdhf9btzo0t.jpg",
+    "apartmentId": "48888533",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 6379.0,
+  "apartmentId": "48888533",
+  "longitude": "-122.395494",
+  "approved": false,
+  "latitude": "47.5577",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 3.0,
+  "finishedSqFt": 1910.0,
+  "lotSizeSqFt": 6510.0,
+  "yearBuilt": "2012",
+  "yearUpdated": "2012",
+  "numFloors": "1",
+  "process": null,
+  "rooms": "Dining room, Laundry room, Master bath, Pantry, Recreation room, Workshop, Walk-in closet, Family room",
+  "viewPoint": null,
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Electric",
+  "postDate": 1494357923740
+}, {
+  "id": 334,
+  "street": "306 W Raye St",
+  "imageUrls": [{
+    "id": 329,
+    "url": "https://photos.zillowstatic.com/p_d/ISmqi2mfc64h350000000000.jpg",
+    "apartmentId": "89211054",
+    "apartment": null
+  }, {
+    "id": 330,
+    "url": "https://photos.zillowstatic.com/p_d/ISekgq398yvj350000000000.jpg",
+    "apartmentId": "89211054",
+    "apartment": null
+  }, {
+    "id": 331,
+    "url": "https://photos.zillowstatic.com/p_d/ISewxj3qol7vb50000000000.jpg",
+    "apartmentId": "89211054",
+    "apartment": null
+  }, {
+    "id": 332,
+    "url": "https://photos.zillowstatic.com/p_d/IS6eeel24qnm350000000000.jpg",
+    "apartmentId": "89211054",
+    "apartment": null
+  }, {
+    "id": 333,
+    "url": "https://photos.zillowstatic.com/p_d/ISy7c23wzhfp350000000000.jpg",
+    "apartmentId": "89211054",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 6556.0,
+  "apartmentId": "89211054",
+  "longitude": "-122.36146",
+  "approved": false,
+  "latitude": "47.643395",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 4.0,
+  "finishedSqFt": 0.0,
+  "lotSizeSqFt": 1743.0,
+  "yearBuilt": "2009",
+  "yearUpdated": null,
+  "numFloors": "3",
+  "process": null,
+  "rooms": "Walk-in closet",
+  "viewPoint": "Territorial",
+  "parkingType": "Garage - Attached, Off-street",
+  "heatingSourcesGas": "Electric, Gas",
+  "postDate": 1494357753229
+}, {
+  "id": 322,
+  "street": "2612 23rd Ave W APT 3",
+  "imageUrls": [{
+    "id": 318,
+    "url": "https://photos.zillowstatic.com/p_d/ISa5q4wkzae4hg0000000000.jpg",
+    "apartmentId": "48927718",
+    "apartment": null
+  }, {
+    "id": 319,
+    "url": "https://photos.zillowstatic.com/p_d/ISybvrq3esgu0n1000000000.jpg",
+    "apartmentId": "48927718",
+    "apartment": null
+  }, {
+    "id": 320,
+    "url": "https://photos.zillowstatic.com/p_d/ISibo5ftblqdip1000000000.jpg",
+    "apartmentId": "48927718",
+    "apartment": null
+  }, {
+    "id": 321,
+    "url": "https://photos.zillowstatic.com/p_d/ISyvyf72fgapjs1000000000.jpg",
+    "apartmentId": "48927718",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 8066.0,
+  "apartmentId": "48927718",
+  "longitude": "-122.385572",
+  "approved": false,
+  "latitude": "47.643359",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 4.0,
+  "finishedSqFt": 2800.0,
+  "lotSizeSqFt": 5997.0,
+  "yearBuilt": "1997",
+  "yearUpdated": "1997",
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Pantry",
+  "viewPoint": "City, Mountain, Park, Territorial, Water",
+  "parkingType": "Garage - Attached, Garage - Detached, On-street",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494357657218
+}, {
+  "id": 305,
+  "street": "6539 5th Ave NW",
+  "imageUrls": [{
+    "id": 302,
+    "url": "https://photos.zillowstatic.com/p_d/IStkr3zr4hit5j1000000000.jpg",
+    "apartmentId": "48832342",
+    "apartment": null
+  }, {
+    "id": 303,
+    "url": "https://photos.zillowstatic.com/p_d/IShjmteeml4rij1000000000.jpg",
+    "apartmentId": "48832342",
+    "apartment": null
+  }, {
+    "id": 304,
+    "url": "https://photos.zillowstatic.com/p_d/IS17i5e1e5owij1000000000.jpg",
+    "apartmentId": "48832342",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 6060.0,
+  "apartmentId": "48832342",
+  "longitude": "-122.362814",
+  "approved": false,
+  "latitude": "47.677139",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 2.0,
+  "finishedSqFt": 2200.0,
+  "lotSizeSqFt": 3750.0,
+  "yearBuilt": "1912",
+  "yearUpdated": "2014",
+  "numFloors": "1",
+  "process": null,
+  "rooms": "Breakfast nook, Dining room, Laundry room",
+  "viewPoint": "Mountain",
+  "parkingType": "Garage - Detached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494357357694
+}, {
+  "id": 301,
+  "street": "3037 11th Ave W",
+  "imageUrls": [{
+    "id": 296,
+    "url": "https://photos.zillowstatic.com/p_d/ISmigf03h2gg321000000000.jpg",
+    "apartmentId": "49012687",
+    "apartment": null
+  }, {
+    "id": 297,
+    "url": "https://photos.zillowstatic.com/p_d/ISece3iwcu7j321000000000.jpg",
+    "apartmentId": "49012687",
+    "apartment": null
+  }, {
+    "id": 298,
+    "url": "https://photos.zillowstatic.com/p_d/ISyz9fhj4ero321000000000.jpg",
+    "apartmentId": "49012687",
+    "apartment": null
+  }, {
+    "id": 299,
+    "url": "https://photos.zillowstatic.com/p_d/ISa1nfjmtq48321000000000.jpg",
+    "apartmentId": "49012687",
+    "apartment": null
+  }, {
+    "id": 300,
+    "url": "https://photos.zillowstatic.com/p_d/ISuk70vabrkas11000000000.jpg",
+    "apartmentId": "49012687",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 8745.0,
+  "apartmentId": "49012687",
+  "longitude": "-122.371813",
+  "approved": false,
+  "latitude": "47.647947",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 2.0,
+  "finishedSqFt": 2401.0,
+  "lotSizeSqFt": 3936.0,
+  "yearBuilt": "1942",
+  "yearUpdated": null,
+  "numFloors": null,
+  "process": null,
+  "rooms": "Dining room, Family room, Laundry room",
+  "viewPoint": "Mountain, Water",
+  "parkingType": "Garage - Attached, Off-street",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494357336793
+}, {
+  "id": 295,
+  "street": "825 NE 75th St",
+  "imageUrls": [{
+    "id": 290,
+    "url": "https://photos.zillowstatic.com/p_d/IS1b17rc9h9zej0000000000.jpg",
+    "apartmentId": "49115222",
+    "apartment": null
+  }, {
+    "id": 291,
+    "url": "https://photos.zillowstatic.com/p_d/ISlqmh82ye9a4r0000000000.jpg",
+    "apartmentId": "49115222",
+    "apartment": null
+  }, {
+    "id": 292,
+    "url": "https://photos.zillowstatic.com/p_d/ISdkk5qvt61d4r0000000000.jpg",
+    "apartmentId": "49115222",
+    "apartment": null
+  }, {
+    "id": 293,
+    "url": "https://photos.zillowstatic.com/p_d/IS5eit7ppysf4r0000000000.jpg",
+    "apartmentId": "49115222",
+    "apartment": null
+  }, {
+    "id": 294,
+    "url": "https://photos.zillowstatic.com/p_d/ISx7ghpilqki4r0000000000.jpg",
+    "apartmentId": "49115222",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 4237.0,
+  "apartmentId": "49115222",
+  "longitude": "-122.319308",
+  "approved": false,
+  "latitude": "47.682839",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 2.0,
+  "finishedSqFt": 2720.0,
+  "lotSizeSqFt": 4552.0,
+  "yearBuilt": "1909",
+  "yearUpdated": "1984",
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Walk-in closet, Dining room",
+  "viewPoint": "Mountain, City",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494357217069
+}, {
+  "id": 277,
+  "street": "553 Ward St",
+  "imageUrls": [{
+    "id": 272,
+    "url": "https://photos.zillowstatic.com/p_d/ISdcenlc76ektx1000000000.jpg",
+    "apartmentId": "2137719077",
+    "apartment": null
+  }, {
+    "id": 273,
+    "url": "https://photos.zillowstatic.com/p_d/ISlq2m2xyz30l10000000000.jpg",
+    "apartmentId": "2137719077",
+    "apartment": null
+  }, {
+    "id": 274,
+    "url": "https://photos.zillowstatic.com/p_d/IS14a991mqzggir.jpg",
+    "apartmentId": "2137719077",
+    "apartment": null
+  }, {
+    "id": 275,
+    "url": "https://photos.zillowstatic.com/p_d/IStsfrbcz121sz.jpg",
+    "apartmentId": "2137719077",
+    "apartment": null
+  }, {
+    "id": 276,
+    "url": "https://photos.zillowstatic.com/p_d/IS14a99cpb87jj7.jpg",
+    "apartmentId": "2137719077",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 8224.0,
+  "apartmentId": "2137719077",
+  "longitude": "-122.345969",
+  "approved": false,
+  "latitude": "47.62795",
+  "available": true,
+  "bedrooms": 2,
+  "bathrooms": 3.0,
+  "finishedSqFt": 1357.0,
+  "lotSizeSqFt": 1699.0,
+  "yearBuilt": "2001",
+  "yearUpdated": null,
+  "numFloors": "4",
+  "process": null,
+  "rooms": "Dining room, Family room, Laundry room, Master bath, Pantry, Walk-in closet",
+  "viewPoint": "City",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": null,
+  "postDate": 1494357114610
+}, {
+  "id": 265,
+  "street": "755 Harvard Ave E ",
+  "imageUrls": [{
+    "id": 260,
+    "url": "https://photos.zillowstatic.com/p_d/ISdkk99hy6oqc80000000000.jpg",
+    "apartmentId": "61767929",
+    "apartment": null
+  }, {
+    "id": 261,
+    "url": "https://photos.zillowstatic.com/p_d/IS9lydtongtjo90000000000.jpg",
+    "apartmentId": "61767929",
+    "apartment": null
+  }, {
+    "id": 262,
+    "url": "https://photos.zillowstatic.com/p_d/IS5msaekj0ix2p0000000000.jpg",
+    "apartmentId": "61767929",
+    "apartment": null
+  }, {
+    "id": 263,
+    "url": "https://photos.zillowstatic.com/p_d/ISpdviatzcnx7p0000000000.jpg",
+    "apartmentId": "61767929",
+    "apartment": null
+  }, {
+    "id": 264,
+    "url": "https://photos.zillowstatic.com/p_d/ISxfqyvdfs903p0000000000.jpg",
+    "apartmentId": "61767929",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 7551.0,
+  "apartmentId": "61767929",
+  "longitude": "-122.3226",
+  "approved": false,
+  "latitude": "47.626523",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 3.0,
+  "finishedSqFt": 1458.0,
+  "lotSizeSqFt": 1438.0,
+  "yearBuilt": "2003",
+  "yearUpdated": null,
+  "numFloors": "2",
+  "process": null,
+  "rooms": null,
+  "viewPoint": null,
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": null,
+  "postDate": 1494357047165
+}, {
+  "id": 259,
+  "street": "2201 3rd Ave APT 2404",
+  "imageUrls": [{
+    "id": 254,
+    "url": "https://photos.zillowstatic.com/p_d/IS6ixfixvxn4h10000000000.jpg",
+    "apartmentId": "48831402",
+    "apartment": null
+  }, {
+    "id": 255,
+    "url": "https://photos.zillowstatic.com/p_d/IS6qb8c59jvtq10000000000.jpg",
+    "apartmentId": "48831402",
+    "apartment": null
+  }, {
+    "id": 256,
+    "url": "https://photos.zillowstatic.com/p_d/ISegh4gj1u64110000000000.jpg",
+    "apartmentId": "48831402",
+    "apartment": null
+  }, {
+    "id": 257,
+    "url": "https://photos.zillowstatic.com/p_d/ISuslsgw9any010000000000.jpg",
+    "apartmentId": "48831402",
+    "apartment": null
+  }, {
+    "id": 258,
+    "url": "https://photos.zillowstatic.com/p_d/ISmmjgyp52f1110000000000.jpg",
+    "apartmentId": "48831402",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 8878.0,
+  "apartmentId": "48831402",
+  "longitude": "-122.344042",
+  "approved": false,
+  "latitude": "47.613899",
+  "available": true,
+  "bedrooms": 2,
+  "bathrooms": 4.0,
+  "finishedSqFt": 1254.0,
+  "lotSizeSqFt": 12959.0,
+  "yearBuilt": "1979",
+  "yearUpdated": "2015",
+  "numFloors": "27",
+  "process": null,
+  "rooms": "Dining room, Laundry room, Master bath, Walk-in closet",
+  "viewPoint": "City, Mountain, Territorial, Water",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Electric",
+  "postDate": 1494356943211
+}, {
+  "id": 247,
+  "street": "3026 NE 96th St",
+  "imageUrls": [{
+    "id": 212,
+    "url": "https://photos.zillowstatic.com/p_d/IS6a3rc2yn87br1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 213,
+    "url": "https://photos.zillowstatic.com/p_d/ISewl2am0vetbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 214,
+    "url": "https://photos.zillowstatic.com/p_d/IS6qjqrfwm6wbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 215,
+    "url": "https://photos.zillowstatic.com/p_d/ISy31fuvtf0abr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 216,
+    "url": "https://photos.zillowstatic.com/p_d/IS2jv3zegl77ar1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 218,
+    "url": "https://photos.zillowstatic.com/p_d/IS6a3rc2yn87br1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 219,
+    "url": "https://photos.zillowstatic.com/p_d/ISewl2am0vetbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 220,
+    "url": "https://photos.zillowstatic.com/p_d/IS6qjqrfwm6wbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 221,
+    "url": "https://photos.zillowstatic.com/p_d/ISy31fuvtf0abr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 222,
+    "url": "https://photos.zillowstatic.com/p_d/IS2jv3zegl77ar1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 242,
+    "url": "https://photos.zillowstatic.com/p_d/IS6a3rc2yn87br1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 243,
+    "url": "https://photos.zillowstatic.com/p_d/ISewl2am0vetbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 244,
+    "url": "https://photos.zillowstatic.com/p_d/IS6qjqrfwm6wbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 245,
+    "url": "https://photos.zillowstatic.com/p_d/ISy31fuvtf0abr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 246,
+    "url": "https://photos.zillowstatic.com/p_d/IS2jv3zegl77ar1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 8410.0,
+  "apartmentId": "49144526",
+  "longitude": "-122.294977",
+  "approved": false,
+  "latitude": "47.698671",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 3.0,
+  "finishedSqFt": 2800.0,
+  "lotSizeSqFt": 10933.0,
+  "yearBuilt": "1968",
+  "yearUpdated": null,
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Dining room, Family room, Laundry room, Master bath, Recreation room",
+  "viewPoint": "Territorial",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494356786997
+}, {
+  "id": 235,
+  "street": "307 W Blaine St",
+  "imageUrls": [{
+    "id": 230,
+    "url": "https://photos.zillowstatic.com/p_d/IStkrz31kn633d1000000000.jpg",
+    "apartmentId": "48930480",
+    "apartment": null
+  }, {
+    "id": 231,
+    "url": "https://photos.zillowstatic.com/p_d/ISlqmlz1f46jw91000000000.jpg",
+    "apartmentId": "48930480",
+    "apartment": null
+  }, {
+    "id": 232,
+    "url": "https://photos.zillowstatic.com/p_d/ISdkk9hvawxlw91000000000.jpg",
+    "apartmentId": "48930480",
+    "apartment": null
+  }, {
+    "id": 233,
+    "url": "https://photos.zillowstatic.com/p_d/IS5eixyo6opow91000000000.jpg",
+    "apartmentId": "48930480",
+    "apartment": null
+  }, {
+    "id": 234,
+    "url": "https://photos.zillowstatic.com/p_d/ISx7glgi2ghrw91000000000.jpg",
+    "apartmentId": "48930480",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 8534.0,
+  "apartmentId": "48930480",
+  "longitude": "-122.361394",
+  "approved": false,
+  "latitude": "47.634548",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 2.0,
+  "finishedSqFt": 2150.0,
+  "lotSizeSqFt": 2400.0,
+  "yearBuilt": "1914",
+  "yearUpdated": null,
+  "numFloors": "1",
+  "process": null,
+  "rooms": "Breakfast nook, Family room, Dining room",
+  "viewPoint": "Territorial",
+  "parkingType": "Garage - Attached, On-street",
+  "heatingSourcesGas": null,
+  "postDate": 1494356749895
+}, {
+  "id": 223,
+  "street": "3026 NE 96th St",
+  "imageUrls": [{
+    "id": 212,
+    "url": "https://photos.zillowstatic.com/p_d/IS6a3rc2yn87br1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 213,
+    "url": "https://photos.zillowstatic.com/p_d/ISewl2am0vetbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 214,
+    "url": "https://photos.zillowstatic.com/p_d/IS6qjqrfwm6wbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 215,
+    "url": "https://photos.zillowstatic.com/p_d/ISy31fuvtf0abr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 216,
+    "url": "https://photos.zillowstatic.com/p_d/IS2jv3zegl77ar1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 218,
+    "url": "https://photos.zillowstatic.com/p_d/IS6a3rc2yn87br1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 219,
+    "url": "https://photos.zillowstatic.com/p_d/ISewl2am0vetbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 220,
+    "url": "https://photos.zillowstatic.com/p_d/IS6qjqrfwm6wbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 221,
+    "url": "https://photos.zillowstatic.com/p_d/ISy31fuvtf0abr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 222,
+    "url": "https://photos.zillowstatic.com/p_d/IS2jv3zegl77ar1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 242,
+    "url": "https://photos.zillowstatic.com/p_d/IS6a3rc2yn87br1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 243,
+    "url": "https://photos.zillowstatic.com/p_d/ISewl2am0vetbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 244,
+    "url": "https://photos.zillowstatic.com/p_d/IS6qjqrfwm6wbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 245,
+    "url": "https://photos.zillowstatic.com/p_d/ISy31fuvtf0abr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 246,
+    "url": "https://photos.zillowstatic.com/p_d/IS2jv3zegl77ar1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 8189.0,
+  "apartmentId": "49144526",
+  "longitude": "-122.294977",
+  "approved": false,
+  "latitude": "47.698671",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 3.0,
+  "finishedSqFt": 2800.0,
+  "lotSizeSqFt": 10933.0,
+  "yearBuilt": "1968",
+  "yearUpdated": null,
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Dining room, Family room, Laundry room, Master bath, Recreation room",
+  "viewPoint": "Territorial",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494356702612
+}, {
+  "id": 217,
+  "street": "3026 NE 96th St",
+  "imageUrls": [{
+    "id": 212,
+    "url": "https://photos.zillowstatic.com/p_d/IS6a3rc2yn87br1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 213,
+    "url": "https://photos.zillowstatic.com/p_d/ISewl2am0vetbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 214,
+    "url": "https://photos.zillowstatic.com/p_d/IS6qjqrfwm6wbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 215,
+    "url": "https://photos.zillowstatic.com/p_d/ISy31fuvtf0abr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 216,
+    "url": "https://photos.zillowstatic.com/p_d/IS2jv3zegl77ar1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 218,
+    "url": "https://photos.zillowstatic.com/p_d/IS6a3rc2yn87br1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 219,
+    "url": "https://photos.zillowstatic.com/p_d/ISewl2am0vetbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 220,
+    "url": "https://photos.zillowstatic.com/p_d/IS6qjqrfwm6wbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 221,
+    "url": "https://photos.zillowstatic.com/p_d/ISy31fuvtf0abr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 222,
+    "url": "https://photos.zillowstatic.com/p_d/IS2jv3zegl77ar1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 242,
+    "url": "https://photos.zillowstatic.com/p_d/IS6a3rc2yn87br1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 243,
+    "url": "https://photos.zillowstatic.com/p_d/ISewl2am0vetbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 244,
+    "url": "https://photos.zillowstatic.com/p_d/IS6qjqrfwm6wbr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 245,
+    "url": "https://photos.zillowstatic.com/p_d/ISy31fuvtf0abr1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }, {
+    "id": 246,
+    "url": "https://photos.zillowstatic.com/p_d/IS2jv3zegl77ar1000000000.jpg",
+    "apartmentId": "49144526",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 9277.0,
+  "apartmentId": "49144526",
+  "longitude": "-122.294977",
+  "approved": false,
+  "latitude": "47.698671",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 3.0,
+  "finishedSqFt": 2800.0,
+  "lotSizeSqFt": 10933.0,
+  "yearBuilt": "1968",
+  "yearUpdated": null,
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Dining room, Family room, Laundry room, Master bath, Recreation room",
+  "viewPoint": "Territorial",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494356672531
+}, {
+  "id": 202,
+  "street": "1405 Cook St",
+  "imageUrls": [{
+    "id": 197,
+    "url": "https://photos.zillowstatic.com/p_d/ISppw7gzmmbxtj1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 198,
+    "url": "https://photos.zillowstatic.com/p_d/IShrsvuvmjky7d1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 199,
+    "url": "https://photos.zillowstatic.com/p_d/IS6ue5jolemh1w0000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 200,
+    "url": "https://photos.zillowstatic.com/p_d/ISh3u8zkmk34pk0000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 201,
+    "url": "https://photos.zillowstatic.com/p_d/ISdsy131hw3lri1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 472,
+    "url": "https://photos.zillowstatic.com/p_d/ISppw7gzmmbxtj1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 473,
+    "url": "https://photos.zillowstatic.com/p_d/IShrsvuvmjky7d1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 474,
+    "url": "https://photos.zillowstatic.com/p_d/IS6ue5jolemh1w0000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 475,
+    "url": "https://photos.zillowstatic.com/p_d/ISh3u8zkmk34pk0000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }, {
+    "id": 476,
+    "url": "https://photos.zillowstatic.com/p_d/ISdsy131hw3lri1000000000.jpg",
+    "apartmentId": "121106141",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 7476.0,
+  "apartmentId": "121106141",
+  "longitude": "-95.381439",
+  "approved": false,
+  "latitude": "29.751219",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 4.0,
+  "finishedSqFt": 3101.0,
+  "lotSizeSqFt": 2462.0,
+  "yearBuilt": "2012",
+  "yearUpdated": "2012",
+  "numFloors": "4",
+  "process": null,
+  "rooms": "Breakfast nook, Dining room, Family room, Laundry room, Master bath, Mud room, Office, Walk-in closet",
+  "viewPoint": "City",
+  "parkingType": "Garage - Attached, On-street",
+  "heatingSourcesGas": "Electric, Gas",
+  "postDate": 1494356140167
+}, {
+  "id": 190,
+  "street": "9019 Briar Forest Dr",
+  "imageUrls": [{
+    "id": 185,
+    "url": "https://photos.zillowstatic.com/p_d/IS2bhny9m7tdnp1000000000.jpg",
+    "apartmentId": "28342294",
+    "apartment": null
+  }, {
+    "id": 186,
+    "url": "https://photos.zillowstatic.com/p_d/ISqpkmv7n08gz11000000000.jpg",
+    "apartmentId": "28342294",
+    "apartment": null
+  }, {
+    "id": 187,
+    "url": "https://photos.zillowstatic.com/p_d/IS27mw9r54eeg51000000000.jpg",
+    "apartmentId": "28342294",
+    "apartment": null
+  }, {
+    "id": 188,
+    "url": "https://photos.zillowstatic.com/p_d/IS62hot1zumlwo0000000000.jpg",
+    "apartmentId": "28342294",
+    "apartment": null
+  }, {
+    "id": 189,
+    "url": "https://photos.zillowstatic.com/p_d/ISyj5ly7t9isa81000000000.jpg",
+    "apartmentId": "28342294",
+    "apartment": null
+  }, {
+    "id": 478,
+    "url": "https://photos.zillowstatic.com/p_d/IS2bhny9m7tdnp1000000000.jpg",
+    "apartmentId": "28342294",
+    "apartment": null
+  }, {
+    "id": 479,
+    "url": "https://photos.zillowstatic.com/p_d/ISqpkmv7n08gz11000000000.jpg",
+    "apartmentId": "28342294",
+    "apartment": null
+  }, {
+    "id": 480,
+    "url": "https://photos.zillowstatic.com/p_d/IS27mw9r54eeg51000000000.jpg",
+    "apartmentId": "28342294",
+    "apartment": null
+  }, {
+    "id": 481,
+    "url": "https://photos.zillowstatic.com/p_d/IS62hot1zumlwo0000000000.jpg",
+    "apartmentId": "28342294",
+    "apartment": null
+  }, {
+    "id": 482,
+    "url": "https://photos.zillowstatic.com/p_d/ISyj5ly7t9isa81000000000.jpg",
+    "apartmentId": "28342294",
+    "apartment": null
+  }],
+  "city": "Houston, TX",
+  "owner": "eHome",
+  "price": 9900.0,
+  "apartmentId": "28342294",
+  "longitude": "-95.529676",
+  "approved": false,
+  "latitude": "29.748236",
+  "available": true,
+  "bedrooms": 3,
+  "bathrooms": 3.0,
+  "finishedSqFt": 2779.0,
+  "lotSizeSqFt": 3850.0,
+  "yearBuilt": "1980",
+  "yearUpdated": "1980",
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Breakfast nook, Dining room, Family room, Laundry room, Master bath",
+  "viewPoint": null,
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Electric",
+  "postDate": 1494356101497
+}, {
+  "id": 142,
+  "street": "1628 W Warren Blvd",
+  "imageUrls": [{
+    "id": 137,
+    "url": "https://photos.zillowstatic.com/p_d/IS1c8vb2o1tokj.jpg",
+    "apartmentId": "89940263",
+    "apartment": null
+  }, {
+    "id": 138,
+    "url": "https://photos.zillowstatic.com/p_d/IS1wqhfrr0d0k2r.jpg",
+    "apartmentId": "89940263",
+    "apartment": null
+  }, {
+    "id": 139,
+    "url": "https://photos.zillowstatic.com/p_d/IS1wqhfruyf8o0z.jpg",
+    "apartmentId": "89940263",
+    "apartment": null
+  }, {
+    "id": 140,
+    "url": "https://photos.zillowstatic.com/p_d/IS1c7kqm2ojbtv.jpg",
+    "apartmentId": "89940263",
+    "apartment": null
+  }, {
+    "id": 141,
+    "url": "https://photos.zillowstatic.com/p_d/IS1c7kqi4mb7vn.jpg",
+    "apartmentId": "89940263",
+    "apartment": null
+  }],
+  "city": "Chicago, IL",
+  "owner": "eHome",
+  "price": 7647.0,
+  "apartmentId": "89940263",
+  "longitude": "-87.668061",
+  "approved": false,
+  "latitude": "41.882632",
+  "available": true,
+  "bedrooms": 4,
+  "bathrooms": 4.0,
+  "finishedSqFt": 3200.0,
+  "lotSizeSqFt": 4000.0,
+  "yearBuilt": "1865",
+  "yearUpdated": null,
+  "numFloors": "2",
+  "process": null,
+  "rooms": "Dining room, Family room, Laundry room, Master bath, Office, Recreation room, Walk-in closet",
+  "viewPoint": null,
+  "parkingType": "Garage - Detached",
+  "heatingSourcesGas": null,
+  "postDate": 1494355996685
+}, {
+  "id": 112,
+  "street": "830 N Hermitage Ave APT 3",
+  "imageUrls": [{
+    "id": 107,
+    "url": "https://photos.zillowstatic.com/p_d/ISle5svtuigsdn0000000000.jpg",
+    "apartmentId": "54537297",
+    "apartment": null
+  }, {
+    "id": 108,
+    "url": "https://photos.zillowstatic.com/p_d/ISu00dgby8tci61000000000.jpg",
+    "apartmentId": "54537297",
+    "apartment": null
+  }, {
+    "id": 109,
+    "url": "https://photos.zillowstatic.com/p_d/ISeovofypscii61000000000.jpg",
+    "apartmentId": "54537297",
+    "apartment": null
+  }, {
+    "id": 110,
+    "url": "https://photos.zillowstatic.com/p_d/ISad41ho6p97i61000000000.jpg",
+    "apartmentId": "54537297",
+    "apartment": null
+  }, {
+    "id": 111,
+    "url": "https://photos.zillowstatic.com/p_d/ISu8yg0bajh8n71000000000.jpg",
+    "apartmentId": "54537297",
+    "apartment": null
+  }],
+  "city": "Chicago, IL",
+  "owner": "eHome",
+  "price": 7744.0,
+  "apartmentId": "54537297",
+  "longitude": "-87.671302",
+  "approved": false,
+  "latitude": "41.896915",
+  "available": true,
+  "bedrooms": 2,
+  "bathrooms": 2.0,
+  "finishedSqFt": 1200.0,
+  "lotSizeSqFt": 0.0,
+  "yearBuilt": "1998",
+  "yearUpdated": null,
+  "numFloors": "1",
+  "process": null,
+  "rooms": "Dining room, Laundry room, Master bath, Pantry, Walk-in closet",
+  "viewPoint": null,
+  "parkingType": "Garage - Detached",
+  "heatingSourcesGas": "Gas",
+  "postDate": 1494355949588
+}, {
+  "id": 72,
+  "street": "602 Galer St",
+  "imageUrls": [{
+    "id": 67,
+    "url": "https://photos.zillowstatic.com/p_d/ISadosnjzhq4ar0000000000.jpg",
+    "apartmentId": "2095142388",
+    "apartment": null
+  }, {
+    "id": 68,
+    "url": "https://photos.zillowstatic.com/p_d/IS6ydnjlzdk9mq0000000000.jpg",
+    "apartmentId": "2095142388",
+    "apartment": null
+  }, {
+    "id": 69,
+    "url": "https://photos.zillowstatic.com/p_d/ISyrvmr6uusihr0000000000.jpg",
+    "apartmentId": "2095142388",
+    "apartment": null
+  }, {
+    "id": 70,
+    "url": "https://photos.zillowstatic.com/p_d/ISyvahgbdhypeq0000000000.jpg",
+    "apartmentId": "2095142388",
+    "apartment": null
+  }, {
+    "id": 71,
+    "url": "https://photos.zillowstatic.com/p_d/ISqlta90qmklhr0000000000.jpg",
+    "apartmentId": "2095142388",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 8842.0,
+  "apartmentId": "2095142388",
+  "longitude": "-122.344472",
+  "approved": false,
+  "latitude": "47.63323",
+  "available": true,
+  "bedrooms": 2,
+  "bathrooms": 1.0,
+  "finishedSqFt": 861.0,
+  "lotSizeSqFt": 0.0,
+  "yearBuilt": null,
+  "yearUpdated": null,
+  "numFloors": null,
+  "process": null,
+  "rooms": "Walk-in closet",
+  "viewPoint": null,
+  "parkingType": "Garage - Attached, Garage - Detached, Off-street",
+  "heatingSourcesGas": null,
+  "postDate": 1494355767415
+}, {
+  "id": 32,
+  "street": "1525 Taylor Ave",
+  "imageUrls": [{
+    "id": 27,
+    "url": "https://photos.zillowstatic.com/p_d/ISdc2eyy1rp1md1000000000.jpg",
+    "apartmentId": "63339067",
+    "apartment": null
+  }, {
+    "id": 28,
+    "url": "https://photos.zillowstatic.com/p_d/IS17qz667q59ef1000000000.jpg",
+    "apartmentId": "63339067",
+    "apartment": null
+  }, {
+    "id": 29,
+    "url": "https://photos.zillowstatic.com/p_d/ISlulb6ty9peef1000000000.jpg",
+    "apartmentId": "63339067",
+    "apartment": null
+  }, {
+    "id": 30,
+    "url": "https://photos.zillowstatic.com/p_d/IS5ihn5gqt8kef1000000000.jpg",
+    "apartmentId": "63339067",
+    "apartment": null
+  }, {
+    "id": 31,
+    "url": "https://photos.zillowstatic.com/p_d/IS5602gsxih4md1000000000.jpg",
+    "apartmentId": "63339067",
+    "apartment": null
+  }, {
+    "id": 41,
+    "url": "https://photos.zillowstatic.com/p_d/ISdc2eyy1rp1md1000000000.jpg",
+    "apartmentId": "63339067",
+    "apartment": null
+  }, {
+    "id": 42,
+    "url": "https://photos.zillowstatic.com/p_d/IS17qz667q59ef1000000000.jpg",
+    "apartmentId": "63339067",
+    "apartment": null
+  }, {
+    "id": 43,
+    "url": "https://photos.zillowstatic.com/p_d/ISlulb6ty9peef1000000000.jpg",
+    "apartmentId": "63339067",
+    "apartment": null
+  }, {
+    "id": 44,
+    "url": "https://photos.zillowstatic.com/p_d/IS5ihn5gqt8kef1000000000.jpg",
+    "apartmentId": "63339067",
+    "apartment": null
+  }, {
+    "id": 45,
+    "url": "https://photos.zillowstatic.com/p_d/IS5602gsxih4md1000000000.jpg",
+    "apartmentId": "63339067",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 8502.0,
+  "apartmentId": "63339067",
+  "longitude": "-122.346553",
+  "approved": false,
+  "latitude": "47.63279",
+  "available": true,
+  "bedrooms": 2,
+  "bathrooms": 1.0,
+  "finishedSqFt": 681.0,
+  "lotSizeSqFt": 35616.0,
+  "yearBuilt": "1960",
+  "yearUpdated": null,
+  "numFloors": null,
+  "process": null,
+  "rooms": null,
+  "viewPoint": null,
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": null,
+  "postDate": 1494355634843
+}, {
+  "id": 20,
+  "street": "2600 2nd Ave",
+  "imageUrls": [{
+    "id": 15,
+    "url": "https://photos.zillowstatic.com/p_d/ISzeu9bd358yoz.jpg",
+    "apartmentId": "2145979923",
+    "apartment": null
+  }, {
+    "id": 16,
+    "url": "https://photos.zillowstatic.com/p_d/ISzeu9ckhtq65f.jpg",
+    "apartmentId": "2145979923",
+    "apartment": null
+  }, {
+    "id": 17,
+    "url": "https://photos.zillowstatic.com/p_d/ISynur5csyx9yb.jpg",
+    "apartmentId": "2145979923",
+    "apartment": null
+  }, {
+    "id": 18,
+    "url": "https://photos.zillowstatic.com/p_d/ISzeu9k0u11msj.jpg",
+    "apartmentId": "2145979923",
+    "apartment": null
+  }, {
+    "id": 19,
+    "url": "https://photos.zillowstatic.com/p_d/ISzeua6tmvwgir.jpg",
+    "apartmentId": "2145979923",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 6297.0,
+  "apartmentId": "2145979923",
+  "longitude": "-122.348877",
+  "approved": false,
+  "latitude": "47.616022",
+  "available": true,
+  "bedrooms": 1,
+  "bathrooms": 1.0,
+  "finishedSqFt": 715.0,
+  "lotSizeSqFt": 0.0,
+  "yearBuilt": "1993",
+  "yearUpdated": null,
+  "numFloors": "25",
+  "process": null,
+  "rooms": null,
+  "viewPoint": "Water, City, Mountain, Territorial",
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": "Electric",
+  "postDate": 1494355595874
+}, {
+  "id": 6,
+  "street": "2911 2nd Ave",
+  "imageUrls": [{
+    "id": 1,
+    "url": "https://photos.zillowstatic.com/p_d/ISy3dsskipug1d1000000000.jpg",
+    "apartmentId": "88875575",
+    "apartment": null
+  }, {
+    "id": 2,
+    "url": "https://photos.zillowstatic.com/p_d/ISapt4628sqhvd1000000000.jpg",
+    "apartmentId": "88875575",
+    "apartment": null
+  }, {
+    "id": 3,
+    "url": "https://photos.zillowstatic.com/p_d/IS2bl6wz85f3ua1000000000.jpg",
+    "apartmentId": "88875575",
+    "apartment": null
+  }, {
+    "id": 4,
+    "url": "https://photos.zillowstatic.com/p_d/IS2jrsnv3kikvd1000000000.jpg",
+    "apartmentId": "88875575",
+    "apartment": null
+  }, {
+    "id": 5,
+    "url": "https://photos.zillowstatic.com/p_d/ISivzjpel31jhc1000000000.jpg",
+    "apartmentId": "88875575",
+    "apartment": null
+  }],
+  "city": "Seattle, WA",
+  "owner": "eHome",
+  "price": 0.0,
+  "apartmentId": "88875575",
+  "longitude": "-122.352397",
+  "approved": false,
+  "latitude": "47.61767",
+  "available": true,
+  "bedrooms": 2,
+  "bathrooms": 2.0,
+  "finishedSqFt": 1100.0,
+  "lotSizeSqFt": 25440.0,
+  "yearBuilt": "2009",
+  "yearUpdated": null,
+  "numFloors": null,
+  "process": null,
+  "rooms": "Dining room, Family room, Walk-in closet, Master bath, Office, Pantry",
+  "viewPoint": null,
+  "parkingType": "Garage - Attached",
+  "heatingSourcesGas": null,
+  "postDate": 1494354787459
+}]
