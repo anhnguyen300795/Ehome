@@ -7,7 +7,7 @@ Technologies
  * [React](https://facebook.github.io/react/): JavaScript View library
  * [ExpressJS](https://expressjs.com/): Node.js web framework
 
-[**Live demo**](http://eroom.herokuapp.com/)
+[**Live demo**](https://ehomemetro.herokuapp.com/)
 
 
 ### Usage
