@@ -40,7 +40,7 @@
     "classnames": "^2.2.5",
     "express": "^4.15.2",
     "immutable": "^3.8.1",
-    "jquery": "^3.1.1",
+    "jquery": "^3.5.0",
     "material-ui": "^0.16.7",
     "node-random-name": "^1.0.1",
     "normalizr": "^3.2.2",
