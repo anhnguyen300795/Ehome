@@ -36,7 +36,7 @@
     "webpack-hot-middleware": "^2.13.2"
   },
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "classnames": "^2.2.5",
     "express": "^4.15.2",
     "immutable": "^3.8.1",
